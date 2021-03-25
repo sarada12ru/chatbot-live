@@ -1,4 +1,6 @@
-module.exports = chatbot_init;
+module.exports = {
+    chatbot_init : chatbot_init
+};
 
 function chatbot_init(args){
     let start = args.start;
