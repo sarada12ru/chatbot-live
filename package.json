@@ -1,0 +1,24 @@
+{
+  "name": "chatbot-live",
+  "version": "1.0.2",
+  "description": "Chat Bot NPM",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarada12ru/chatbot-live.git"
+  },
+  "keywords": [
+    "Chat",
+    "Bot"
+  ],
+  "author": "Sarada Prasad Biswal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarada12ru/chatbot-live/issues"
+  },
+  "homepage": "https://github.com/sarada12ru/chatbot-live#readme",
+  "dependencies": { }
+}

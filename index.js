@@ -1,6 +1,8 @@
+module.exports = chatbot_init;
+
 function chatbot_init(args){
     let start = args.start;
-    let api_url = args.api_url;
+    let api_url = 'https://demo1.intelgicbot.com/webhooks/rest/webhook';
     let first_msg = args.first_msg;
     let auto_start = args.auto_start;
 
